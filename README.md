@@ -10,3 +10,12 @@ NeetCode-150
     7.Valid Sudoku 
     8.Encode And Decode Strings 
     9.Longest Consecutive Sequence 
+
+2. Two Pointers 
+    1.Valid Palindrome
+    2.Two Sum II Input Array Is Sorted
+    3.3Sum
+    4.Container With Most Water
+    5.Trapping Rain Water 
+
+3. Sliding Window
